@@ -1,0 +1,7 @@
+pandas
+streamlit
+numpy<2
+pyarrow<21
+matplotlib
+scikit-learn<1.6
+scikit-learn-extra
